@@ -1,0 +1,1 @@
+﻿Java e java.lang: Programe com a classe Object e String Use imports e organize o seu código através de packages Saiba o significado de todos os modificadores de visibilidade tratamento de exceções Documente e distribuia a sua biblioteca Conheça o java.lang Entenda a imutabilidade e a classe String Aprenda para que existe a classe java.lang.Object

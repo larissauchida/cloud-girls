@@ -1,0 +1,1 @@
+﻿Front-end: Projeto de conclusão Pratique o que aprendeu na formação Front-end Crie do zero um layout proposto Utilize recursos do CSS3 para aplicar um visual fidedigno Pratique conceitos de design responsivo Utilize também JavaScript e jQuery

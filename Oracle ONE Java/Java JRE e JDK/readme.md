@@ -1,0 +1,1 @@
+﻿Java JRE e JDK: Escreva o seu primeiro código com Eclipse JVM? JDK? JRE? O que são essas siglas? Compilando e executando código java Aprenda a usar Eclipse Variáveis e controle de fluxo Conheça os principais tipos do Java
